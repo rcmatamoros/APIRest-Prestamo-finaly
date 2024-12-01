@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "prestamo.hipotecario",
+    "type": "java.lang.String",
+    "description": "A description for 'prestamo.hipotecario'"
+  },
+  {
+    "name": "prestamo.personal",
+    "type": "java.lang.String",
+    "description": "A description for 'prestamo.personal'"
+  },
+  {
+    "name": "prestamo.vehicular",
+    "type": "java.lang.String",
+    "description": "A description for 'prestamo.vehicular'"
+  }
+]}
